@@ -7,4 +7,5 @@ Contract Test {
         uint256 b = 2;
         uint256 c = a + b;
     }
+    
 }
